@@ -1,0 +1,10 @@
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\bin\Debug\COMBO_BOMBO).exe.config
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\bin\Debug\COMBO_BOMBO).exe
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\bin\Debug\COMBO_BOMBO).pdb
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO).csprojAssemblyReference.cache
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO_.Form1.resources
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO_.Properties.Resources.resources
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO).csproj.GenerateResource.cache
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO).csproj.CoreCompileInputs.cache
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO).exe
+C:\Users\79065\source\repos\COMBO_BOMBO)\COMBO_BOMBO)\obj\Debug\COMBO_BOMBO).pdb
